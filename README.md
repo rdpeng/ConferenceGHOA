@@ -56,20 +56,27 @@ conference there isn't a long delay.
 
 ## Conference Day!
 
-1. The TD should initiate the Google Hangout on Air ~20-30 minutes
-before the actual start time. In order to start the Hangout you need
-to invite some. At this point, simply invite the person who is the
-moderator.
+1. The TD should initiate the Google Hangout on Air about 20 to 30
+minutes before the actual start time. This gives you a little
+breathing room to make sure the Internet is, you know, working. In
+order to start the Hangout you need to invite someone. At this point,
+simply invite the person who is the Moderator.
 
 2. Once the Google Hangout on Air is initiated, you will get the
-YouTube link as well as the embed code.
+YouTube link as well as the embed code. At this point you are NOT
+broadcasting so don't worry!
 
-3. Put the YouTube link on the Google Events page (if you have one) as the “website URL”. Use the embed code wherever you want to embed the video live stream.
+3. Put the YouTube link on the Google+ Events page (if you have one) as
+the "website URL". Use the embed code wherever you want to embed the
+video live stream (like on your blog).
 
-4. Start inviting the speakers to the Hangout.
+4. Start inviting the speakers to the Hangout. You can do this from
+the Hangouts on Air interface.
 
 5. Once everyone has logged in, test that everyone can speak and hear
-everyone else.
+everyone else. Check that there's on weird feedback or other audio
+problem.
+
 
 ## Running the Conference
 
