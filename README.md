@@ -19,7 +19,7 @@ not be the same person.
 4. Everyone participating in the conference must add the TD to their
 circles. Similarly, the TD must add everyone to his/her circle.
 
-5. You can great a [Google+
+5. You can create a [Google+
 Event](http://www.google.com/+/learnmore/events/) page to announce the
 event (date, time, etc.). People can sign up on the Google Event page
 (if they have a Google Plus account) so you can keep track of how many
@@ -74,7 +74,7 @@ video live stream (like on your blog).
 the Hangouts on Air interface.
 
 5. Once everyone has logged in, test that everyone can speak and hear
-everyone else. Check that there's on weird feedback or other audio
+everyone else. Check that there's no weird feedback or other audio
 problem.
 
 
