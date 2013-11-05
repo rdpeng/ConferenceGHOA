@@ -56,6 +56,9 @@ conference there isn't a long delay.
 
 ## Conference Day!
 
+1. To start the Google Hangout, you can go to the [Hangouts on Air
+page](http://www.google.com/+/learnmore/hangouts/onair.html).
+
 1. The TD should initiate the Google Hangout on Air about 20 to 30
 minutes before the actual start time. This gives you a little
 breathing room to make sure the Internet is, you know, working. In
