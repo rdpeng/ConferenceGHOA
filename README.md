@@ -84,32 +84,32 @@ problem.
 "Start Broadcast" button to start the broadcast and activate the
 YouTube live stream.
 
-* Note that there will likely be a delay with the YouTube live stream
+2. Note that there will likely be a delay with the YouTube live stream
 of 30 seconds to a minute or so. Don't let this phase you! Just start
 talking, otherwise there will be a weird silent gap on the live
 stream.
 
-* The TD or the Moderator should open the conference and welcome
+3. The TD or the Moderator should open the conference and welcome
 everyone. The TD should click on the window of whomever is
 speaking. Only the TD can control which face is appearing in the large
 screen for the live stream.
 
-* The moderator should then introduce the first speaker and then let
+4. The moderator should then introduce the first speaker and then let
 him/her speak. Once the first speaker start, the TD should click on
 his/her window in the Hangout.
 
-* The Moderator (or another person) should monitor the Twitter
+5. The Moderator (or another person) should monitor the Twitter
 hashtag to see if questions come up. If there are only a few
 questions, you might want to have a prepared set of questions for all
 the speakers.
 
-* While the speaker is speaking, the moderator can use the chat
+6. While the speaker is speaking, the moderator can use the chat
 window on the side to indicate to the speaker how many minutes they
 have left. It’s good to give them 5 minutes, 2 minutes, 1 minute, and
 "time's up". This works if the presenter is NOT using slides via
 screenshare.
 
-* If a presenter is using slides via screenshare, then they will not
+7. If a presenter is using slides via screenshare, then they will not
 see the chat window because they'll probably be looking at their
 slides. You can use a direct Google Gchat to try and communicate with
 them.  Or maybe send them a text message. Basically, you need another
@@ -117,12 +117,12 @@ way to get their attention. Once the first speaker is finished, the
 moderator should introduce the next speaker and continue through with
 the rest of the speakers.
 
-* Once all the speakers are done, if you are taking questions, then
+8. Once all the speakers are done, if you are taking questions, then
 the Moderator can scan the Twitter hashtag and feed questions to the
 speakers.
 
-* Thank everyone and sign off. The TD should click the "End
+9. Thank everyone and sign off. The TD should click the "End
 Broadcast" button to turn off the live stream.
 
-* Once the broadcast ends, the video of the event will be available
+10. Once the broadcast ends, the video of the event will be available
 on YouTube immediately.
