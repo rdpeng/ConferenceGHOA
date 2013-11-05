@@ -3,9 +3,9 @@ How To Host a Conference on Google Hangouts on Air
 
 ## Setup
 
-1. Everyone participating in the conference must have a Google Plus
-account. Sign up! If a participant uses Gmail already, then they have
-an account.
+1. Everyone participating in the conference must have a [Google
+Plus](https://plus.google.com) account. Sign up! If a participant uses
+Gmail already, then they have an account.
 
 2. You must specify one person as the technical director (TD). This
 person will initiate the conference and run the show as it
@@ -19,20 +19,22 @@ not be the same person.
 4. Everyone participating in the conference must add the TD to their
 circles. Similarly, the TD must add everyone to his/her circle.
 
-5. You can great a Google Event page to announce the event (date,
-time, etc.). People can sign up on the Google Event page (if they have
-a Google Plus account) so you can keep track of how many people are
-interested. Also, you can email everyone on the invitation list
-information about the conference (but I would suggest using this
+5. You can great a [Google+
+Event](http://www.google.com/+/learnmore/events/) page to announce the
+event (date, time, etc.). People can sign up on the Google Event page
+(if they have a Google Plus account) so you can keep track of how many
+people are interested. Also, you can email everyone on the invitation
+list information about the conference (but I would suggest using this
 feature sparingly).
 
 6. Every participant in the conference must download and install the
 [Google Hangouts
 plugin](https://www.google.com/tools/dlpage/hangoutplugin).
 
-7. Announce a hashtag on Twitter. If you want to get discussion going
-early, start a Twitter hashtag and announce it. You can use the
-hashtag later to take questions (optional).
+7. Announce a hashtag on [Twitter](http://twitter.com). If you want to
+get discussion going early, start a Twitter hashtag and announce
+it. You can use the hashtag later to take questions (optional).
+
 
 ## Testing
 
