@@ -36,10 +36,11 @@ get discussion going early, start a Twitter hashtag and announce
 it. You can use the hashtag later to take questions (optional).
 
 
-## Testing
+## Pre-Conference Preparation
 
-1. Test run Google hangout. Get some friends together and simulate the
-conference.
+1. Test run Google Hangouts on Air. Get some friends together and
+simulate the conference. This will give you a chance to iron out some
+bugs and see if you really know how to work things.
 
 2. For each speaker in the conference, try to initiate a Google
 Hangout with each of them individually. You can use this as an
@@ -47,9 +48,13 @@ opportunity to get to know them (especially if you haven’t met), tell
 them what you expect from them, and how the conference will operate.
 
 3. Find out which speakers will be using slides. Slides can be
-presented using the screenshare feature in Google hangouts.
+presented using the screenshare feature in Google hangouts but it's
+not always obvious how this works. Practice it so that each speaker
+using slides knows exactly how to get it to work. That way during the
+conference there isn't a long delay.
 
-## Conference Day
+
+## Conference Day!
 
 1. The TD should initiate the Google Hangout on Air ~20-30 minutes
 before the actual start time. In order to start the Hangout you need
